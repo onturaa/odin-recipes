@@ -1,1 +1,2 @@
 # odin-recipes
+The purpose of this project is to allow me to practice my basic html skills by creating a website with links to a couple of recipes. So far I have learned basic html boilerplate and how to add different types of text with different features to my website. I have also learned how to link to other websites on the internet and other webpages I have created, and have learned to add images to my webpages.
